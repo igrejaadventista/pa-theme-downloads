@@ -384,3 +384,13 @@ msgstr "Nenhum kit foi encontrado na lixeira."
 
 #~ msgid "Featured posts"
 #~ msgstr "Posts em destaque"
+
+
+#: classes/controllers/PA_CPT_Projects.class.php:26
+#: classes/controllers/PA_CPT_Projects.class.php:40
+msgid "Project"
+msgstr "Projeto"
+
+#: classes/controllers/PA_CPT_Projects.class.php:57
+msgid "project-slug"
+msgstr "projeto"

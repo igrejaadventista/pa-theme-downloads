@@ -392,3 +392,12 @@ msgstr "No se encontró ningún kit en la Papelera."
 
 #~ msgid "Featured posts"
 #~ msgstr "Posts em destaque"
+
+#: classes/controllers/PA_CPT_Projects.class.php:26
+#: classes/controllers/PA_CPT_Projects.class.php:40
+msgid "Project"
+msgstr "Proyecto"
+
+#: classes/controllers/PA_CPT_Projects.class.php:57
+msgid "project-slug"
+msgstr "proyecto"

@@ -343,49 +343,6 @@ msgstr "Nenhum kit encontrado."
 msgid "No kit found in Trash."
 msgstr "Nenhum kit foi encontrado na lixeira."
 
-#~ msgid "Enter a title"
-#~ msgstr "Insira um título"
-
-#~ msgid "Write the problem you found"
-#~ msgstr "Escreva o problema que você encontrou"
-
-#~ msgid "Share:"
-#~ msgstr "Compartilhar:"
-
-#~ msgid "Videos"
-#~ msgstr "Vídeos"
-
-#~ msgid "There is no headquarter office linked to this post."
-#~ msgstr "Não tem nenhuma Sede Proprietária linkada a este post."
-
-#~ msgid "Video info"
-#~ msgstr "Informação do vídeo"
-
-#~ msgid "Video"
-#~ msgstr "Vídeo"
-
-#~ msgid "Lenght"
-#~ msgstr "Duração"
-
-#~ msgid "It will be get when saving the post."
-#~ msgstr "Será obtido ao salvar o post."
-
-#~ msgid "Mode"
-#~ msgstr "Modo"
-
-#~ msgid "Latest"
-#~ msgstr "Últimos"
-
-#~ msgid "Video select"
-#~ msgstr "Selecionar vídeo"
-
-#~ msgid "Quantity"
-#~ msgstr "Quantidade"
-
-#~ msgid "Featured posts"
-#~ msgstr "Posts em destaque"
-
-
 #: classes/controllers/PA_CPT_Projects.class.php:26
 #: classes/controllers/PA_CPT_Projects.class.php:40
 msgid "Project"
@@ -394,3 +351,47 @@ msgstr "Projeto"
 #: classes/controllers/PA_CPT_Projects.class.php:57
 msgid "project-slug"
 msgstr "projeto"
+
+#: /core/Taxonomies.php:56
+msgid "Ministries"
+msgstr "Ministérios"
+
+#: /core/Taxonomies.php:53
+msgid "Collection"
+msgstr "Coleção"
+
+#: /core/Taxonomies.php:59
+msgid "Editorial"
+msgstr "Editorial"
+
+#: /core/Taxonomies.php:57
+msgid "Ministry"
+msgstr "Ministério"
+
+#: /core/Taxonomies.php:70
+msgid "Projects"
+msgstr "Projetos"
+
+#: /core/Taxonomies.php:77
+msgid "Region"
+msgstr "Região"
+
+#: /core/Taxonomies.php:83
+msgid "Regional Headquarter"
+msgstr "Sede Regional"
+
+#: /core/Taxonomies.php:89
+msgid "Owner Headquarter"
+msgstr "Sede Proprietária"
+
+#: /core/Taxonomies.php:95
+msgid "File type"
+msgstr "Tipo de arquivo"
+
+#: /template-parts/global/feature.php:3
+msgid "Featured"
+msgstr "Destaque"
+
+#: /components/menu/footer.php:39
+msgid "Our social networks"
+msgstr "Nossas redes sociais"

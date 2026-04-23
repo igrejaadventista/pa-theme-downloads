@@ -392,3 +392,56 @@ msgstr "No se encontró ningún kit en la Papelera."
 
 #~ msgid "Featured posts"
 #~ msgstr "Posts em destaque"
+
+#: classes/controllers/PA_CPT_Projects.class.php:26
+#: classes/controllers/PA_CPT_Projects.class.php:40
+msgid "Project"
+msgstr "Proyecto"
+
+#: classes/controllers/PA_CPT_Projects.class.php:57
+msgid "project-slug"
+msgstr "proyecto"
+
+#: /core/Taxonomies.php:64
+msgid "Ministries"
+msgstr "Departamentos"
+
+#: /core/Taxonomies.php:53
+msgid "Collection"
+msgstr "Colección"
+
+#: /core/Taxonomies.php:59
+msgid "Editorial"
+msgstr "Editorial"
+
+#: /core/Taxonomies.php:65
+msgid "Ministry"
+msgstr "Departamento"
+
+#: /core/Taxonomies.php:70
+msgid "Projects"
+msgstr "Proyectos"
+
+#: /core/Taxonomies.php:77
+msgid "Region"
+msgstr "Región"
+
+#: /core/Taxonomies.php:83
+msgid "Regional Headquarter"
+msgstr "Sede regional"
+
+#: /core/Taxonomies.php:89
+msgid "Owner Headquarter"
+msgstr "Sede propietaria"
+
+#: /core/Taxonomies.php:95
+msgid "File type"
+msgstr "Tipo de archivo"
+
+#: /template-parts/global/feature.php:3
+msgid "Featured"
+msgstr "Destaque"
+
+#: /components/menu/footer.php:39
+msgid "Our social networks"
+msgstr "Nuestras redes sociales"
